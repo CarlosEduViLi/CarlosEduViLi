@@ -1,7 +1,7 @@
 ### Olá, Mundo! Carlos Eduardo aqui! 👋
 
-- 🔭 Trabalhando como Estudante de Ciência da Computação na Universidade Federal Do Tocantins - UFT.
-- 🌱 Aprendendo acerca de Front-End.
+- 🔭 Formado em Ciência da Computação na Universidade Federal Do Tocantins - UFT.
+- 🌱 Full-Stack.
 - 📫 Contato: carlosedu.vianalima@gmail.com
 - 😄 Ele/Dele.
 - ⚡ Só joga de suporte.
